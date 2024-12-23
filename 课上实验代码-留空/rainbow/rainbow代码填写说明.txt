@@ -1,0 +1,1 @@
+rainbow算法的三个代码空分别在 Brain/agent.py、Brain/model.py、Memory/replay_memory.py 文件中。
